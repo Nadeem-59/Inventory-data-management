@@ -1,4 +1,4 @@
-# Inventory-data-management
+# Inventory-data-management summary 
 
 🧾 Inventory Management System – Summary
 This Python-based Inventory Management System is a command-line interface (CLI) application that allows users to manage products dynamically with data persistence using a JSON file.
